@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there! I’m Bhavesh Palanichamy, a data-driven business graduate passionate about transforming raw data into meaningful business insights. With hands-on experience in sales reporting, market research, and strategic analysis across international markets, I bring a strong foundation in tools like Excel, SAP, Python, and SQL. Currently working at TANFAC Industries Ltd., I contribute to data-backed decision-making through forecasting, pricing analysis, and executive-level reporting. I hold a Master's in International Business and a Bachelor's in Business Analytics and International Business from Monash University. I’m now looking to apply and further develop my analytical and problem-solving skills in dynamic business environments. Let’s connect and collaborate
 
 <!--
 **Veshy25/Veshy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
