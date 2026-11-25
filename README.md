@@ -13,10 +13,10 @@ Analyst at TANFAC Industries Ltd. · Master of International Business and Bachel
 
 [![Power BI dashboard: India's export growth against China, Vietnam and Bangladesh](https://raw.githubusercontent.com/Veshy25/trade-analytics/main/dashboard/screenshots/dashboard_page_1_benchmark.png)](https://github.com/Veshy25/trade-analytics)
 
-India's goods exports benchmarked against China, Vietnam and Bangladesh, using UN Comtrade data.
+India's goods exports benchmarked against China, Vietnam and Bangladesh (Bangladesh: 2015–2018 only), using UN Comtrade data.
 
-- **Finding:** India's exports grew 3.46% a year to USD 431.4 billion; Vietnam's grew 9.96% a year.
-- **Work:** PostgreSQL analysis with automated checks, a five-page Power BI dashboard and written findings.
+- **Finding:** in nominal terms, India's exports grew 3.46% a year from 2014 to USD 431.4 billion in 2023; Vietnam's grew 9.96% a year.
+- **Work:** PostgreSQL analysis with 18 built-in data checks, a five-page Power BI dashboard and written findings.
 - **Read next:** [key findings](https://github.com/Veshy25/trade-analytics/blob/main/insights/key_findings.md)
 
 ## Other work
