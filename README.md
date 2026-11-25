@@ -1,15 +1,39 @@
-# 💫 About Me:
-👋 Hi there! I’m Bhavesh Palanichamy<br><br>🎓 Bachelor's & Master's Graduate from Monash University <br>📘 Bachelor's Major: Business and Commerce (International Business & Business Analytics) <br>📗 Master's Major: International Business<br>🧠 Interests: Business Insights, Data Analytics, Marketing Strategy & Visualization<br>📍 Currently based in India<br>📧 Reach me: bhavesh.palanichamy@gmail.com <br>🔗 [LinkedIn](www.linkedin.com/in/bhavesh-palanichamy)<br><br>---<br><br>🔧 Skills<br><br>- **Languages:** SQL, Python, R , Markdown  <br>- **Tools:** Excel, SAP, Power BI, Tableau  <br>- **Other:** Data Cleaning, Business Reporting, Dashboard Reporting, Market Research<br><br>---<br><br> ⚡Profile Summary: <br><br> I am a data-driven business graduate passionate about transforming raw data into meaningful business insights. With hands-on experience in sales reporting, market research, and strategic analysis across international markets, I bring a strong foundation in tools like Excel, SAP, Python, and SQL. Currently working at TANFAC Industries Ltd., I contribute to data-backed decision-making through forecasting, pricing analysis, and executive-level reporting. I hold a Master's in International Business and a Bachelor's in Business Analytics and International Business from Monash University. I’m now looking to apply and further develop my analytical and problem-solving skills in dynamic business environments. Let’s connect and collaborate!
+# Bhavesh Palanichamy
 
+**Analyst working across data, BI and international trade.** I turn business data into reporting, forecasts and recommendations, using SQL, Power BI and Python.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.lLinkedin.com/in/bhavesh-palanichamy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavesh.palanichamy@gmail.com) 
+Analyst at TANFAC Industries Ltd. · Master of International Business and Bachelor of Business & Commerce, Monash University · Based in India
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Veshy25&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Veshy25&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veshy25&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat)](https://www.linkedin.com/in/bhavesh-palanichamy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:bhavesh.palanichamy@gmail.com)
 
+## Featured project
 
+### [India's export profile, 2014–2023](https://github.com/Veshy25/trade-analytics)
+
+[![Power BI dashboard: India's export growth against China, Vietnam and Bangladesh](https://raw.githubusercontent.com/Veshy25/trade-analytics/main/dashboard/screenshots/dashboard_page_1_benchmark.png)](https://github.com/Veshy25/trade-analytics)
+
+India's goods exports benchmarked against China, Vietnam and Bangladesh (Bangladesh: 2015–2018 only), using UN Comtrade data.
+
+- **Finding:** in nominal terms, India's exports grew 3.46% a year from 2014 to USD 431.4 billion in 2023; Vietnam's grew 9.96% a year.
+- **Work:** PostgreSQL analysis with 18 built-in data checks, a five-page Power BI dashboard and written findings.
+- **Read next:** [key findings](https://github.com/Veshy25/trade-analytics/blob/main/insights/key_findings.md)
+
+## Other work
+
+- [Sales analytics dashboard](https://github.com/Veshy25/Sales-Analytics-Dashboard-): a Power BI and DAX practice project on simulated B2B sales data.
+
+## Skills
+
+| Area | Tools and methods |
+|---|---|
+| Data and BI | SQL (PostgreSQL), Power BI (DAX, Power Query), Tableau, Excel |
+| Programming | Python, R, Git and GitHub |
+| Business analysis | Demand forecasting, pricing, variance and contribution-margin analysis, stakeholder reporting |
+| Business systems | SAP |
+
+## Certifications
+
+- Data Science & Analytics for Strategic Decisions, Singapore Management University (2026)
+- Python for Data Science, AI & Development, IBM / Coursera (2025)
+- Tools for Data Science, IBM / Coursera (2025)
